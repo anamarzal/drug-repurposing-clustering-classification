@@ -4,7 +4,7 @@ This project presents a machine learning approach for drug repositioning based o
 
 ## Project Summary
 
-1. **Data Source**: Physicochemical descriptors and therapeutic indications of pharmaceutical compounds were extracted from ChEMBL.
+1. **Data Source**: Physicochemical descriptors and therapeutic indications of pharmaceutical compounds were extracted from ChEMBL (https://www.ebi.ac.uk/chembl/).
 2. **Clustering Analysis**: Four clustering algorithms (K-Means, GMM, MeanShift, and DBSCAN) were applied to analyze how compounds group within the physicochemical feature space.
 3. **Indication Profiling**: For each resulting cluster, the most predominant therapeutic indications were identified.
 4. **Classification & Repositioning**:
